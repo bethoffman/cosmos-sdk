@@ -104,7 +104,7 @@ to maintain backwards compatibility.
 
 ### Negative
 
-* Is more complex than simple voting, and so may be harder to explain to users.  However, this is mostly mitigated because the feature is opt-in.
+* It is more complex than simple voting, and so may be harder to explain to users.  However, this is mostly mitigated because the feature is opt-in.
 
 ### Neutral
 
