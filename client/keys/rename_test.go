@@ -100,7 +100,7 @@ func Test_runRenameCmd(t *testing.T) {
 	require.NoError(t, err)
 	require.Equal(t, oldAddr, renamedAddr)
 
-	// try to rename key1 but it doesnt exist anymore so error
+	// try to rename key1 but it doesn't exist anymore so error
 	cmd.SetArgs([]string{
 		fakeKeyName1,
 		fakeKeyName2,
